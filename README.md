@@ -1,3 +1,3 @@
-# 109-1-Web-Depoy Tutorial
+# 109-1-Web-Deploy Tutorial
 
 download slides [here](http://toby.best/deploy-pdf)
